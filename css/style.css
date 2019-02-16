@@ -3,7 +3,7 @@
 
 
 .headerdiv{
-    background-image: url('images/photo.jpg');
+    background-image: url('/images/photo.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     height: 430px;
